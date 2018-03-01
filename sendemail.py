@@ -2,11 +2,11 @@ import smtplib
 from email.mime.text import MIMEText
 
 # 收件人列表
-mail_namelist = ["422033564@qq.com","1420830268@qq.com","839375210@qq.com"]
+mail_namelist = ["42203@qq.com","1420830268@qq.com","839375210@qq.com"]
 # 发送方信息
-mail_user = "422033564@qq.com"
+mail_user = "4220@qq.com"
 #口令
-mail_pass = "rlixtgnujleocagi"
+mail_pass = ""
 
 #发送邮件
 #title：标题
